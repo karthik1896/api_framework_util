@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  cfssv2.test.api.framework.utility:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "30901:30901"
