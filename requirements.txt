@@ -9,6 +9,6 @@ openpyxl
 Pyarrow
 numpy~=1.26.3
 python-multipart
-starlette~=0.35.1
+starlette~=0.41.0
 SQLAlchemy~=2.0.25
 pylint
